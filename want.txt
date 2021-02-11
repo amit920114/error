@@ -1,0 +1,3 @@
+What i want is to they show the currency exchange whenever i put the symbol of any currency,
+though i following cs50 lecture 07 and here is the snapshot link: https://youtu.be/xMs4ER1rcLg?t=4744
+  .
