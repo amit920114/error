@@ -1,3 +1,1 @@
-What i want is to they show the currency exchange whenever i put the symbol of any currency,
-though i following cs50 lecture 05 and here is the snapshot link: https://youtu.be/xMs4ER1rcLg?t=4744
-  .
+if you dont have the tools. Then pls check the command and add new file as newChange.txt
